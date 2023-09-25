@@ -2,7 +2,7 @@
 Nama  : Andi Aliyah Nur Inayah Pattoza<br>
 NRP   : 5025221196
 
-<h3>Demo Tampilan Web</h3>
+<h3>--Demo Tampilan Web--</h3>
 <img width="689" alt="Screenshot 2023-09-19 161936" src="https://github.com/Aliyah-Pattoza/P-Web-G/assets/127922043/bcb90068-d514-4aa1-b256-02c9140f0876">
 <br>- Klik Button Submit untuk melihat hasil
 <img width="857" alt="Screenshot 2023-09-19 161952" src="https://github.com/Aliyah-Pattoza/P-Web-G/assets/127922043/8a631a33-3e82-42d9-bf18-85a075dae049">
