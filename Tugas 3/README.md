@@ -8,7 +8,7 @@ NRP   : 5025221196
 <img width="857" alt="Screenshot 2023-09-19 161952" src="https://github.com/Aliyah-Pattoza/P-Web-G/assets/127922043/8a631a33-3e82-42d9-bf18-85a075dae049">
 <br>- Penjumlahan
 <img width="819" alt="Screenshot 2023-09-19 162007" src="https://github.com/Aliyah-Pattoza/P-Web-G/assets/127922043/ca79f698-c603-442d-909c-ceb6c82c2222">
-<br>- Pengurangan 
+<br>- Pengurangan
 <img width="716" alt="Screenshot 2023-09-19 162224" src="https://github.com/Aliyah-Pattoza/P-Web-G/assets/127922043/fc2c2836-fff5-4863-aca1-2bd059603625">
 <br>- Perkalian
 <img width="725" alt="Screenshot 2023-09-19 162123" src="https://github.com/Aliyah-Pattoza/P-Web-G/assets/127922043/445eeed8-c70d-4607-85a8-a769fc5bcaff">
